@@ -1,0 +1,49 @@
+* {
+        padding: 0%;
+        margin: 0%;
+        font-family: 'Skranji', cursive;
+        box-sizing: border-box;
+}
+
+
+img {
+        border-radius:100%;
+        width: 300px;
+        height: 300px;
+        margin: 75px 75px;
+}
+
+
+body {
+        background-color: rgba(00, 00, 000, 1);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+}
+
+
+h1 {
+        margin-top: 200px;
+        color: whitesmoke;
+        font-size: 650%;
+        margin-bottom: 65px;
+        
+}
+
+.container {       
+        text-align: center;
+        height: 100vh;      
+}
+
+.show {
+        font-size: 175px;
+        color: whitesmoke;
+        margin-bottom: 25px;
+}
+
+.botones {
+         padding: 20px;
+         letter-spacing: 3px;
+         cursor: pointer;
+}
